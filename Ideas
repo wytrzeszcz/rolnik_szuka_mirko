@@ -1,3 +1,10 @@
 each farmer has integre numer of 1ha peaces of ground.
 Farmer can colect peaces into farmlands/orchards/pigsty/chickencoop/pasture/forest and then he can decice what he will produce on each peace
-eg. i choose  to make 
+eg. i choose  to make orchand and on orchand i decide to make plums and apple
+
+Farmers send to market products and theris prices.  Random generated consumers best (minimal) price*time_on_market  what they find.
+
+
+1 day IRL is 7 days in game. 
+
+Each Job coud be foreground or background, when player add to sheduler job ending time is max(now,max(Jobs.Ending_times)+job_duration)
